@@ -7,50 +7,61 @@ Master's student in Informatics with a focus in cybersecurity, combining a stron
 
 Seeking a cybersecurity internship to apply technical skills, gain hands-on experience, and contribute to protecting digital systems.
 
+## Education
+**The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (in progress)  
+Relevant courses: Intro to Cyberspace & Informatics, Intro to Programming (Python), Foundations of Systems I & II, Programming Cyber Systems, Reverse Engineering.  
+**B.I.S., Interdisciplinary Studies (Bilingual Education), Magna Cum Laude (Dec 2022)**
+
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python (scripting, basics)                    | <a href="#">Python Coursework</a> |
+| Network Connection Monitoring & Analysis      | <a href='#'>NetStat Lab</a> |
+| Phishing Analyis & Detection                  | <a href='#'>Phishing Website Lab</a> |
+| Log Analysis & Incident Investigation         | <a href="#">Let'sDefend SOC Labs</a> |
+| Alert Triage & Case Documentation             | <a href="#">Let'sDefend SOC Labs</a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Programming / IDEs
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
-### Endpoint
+### Networking & Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004F9F?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-### SIEM
+### Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B_(in_progress)-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<!-- Add more when earned -->
+<!-- <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+
+### Experience
+**Substitute Teacher — Mission CISD** (Apr 2023 – Present)  
+Delivered engaging lessons for grades Pre-K to 5, strengthening communication, documentation, and rapid problem-solving.
+
+**Student Teacher — Edinburg CISD** (Aug 2022 – Dec 2022)  
+Developed standards-aligned lesson plans and assessments for 2nd grade students.
+
+**Technology Intern — Edinburg CISD** (Feb 2018 – Sep 2021)  
+Supported device setup, software installs, and basic troubleshooting; assisted with network and classroom tech across departments.
+
+---
+
+## Contact
+📍 Edinburg, TX • ✉️ ceciliaguzmaan@gmail.com  
 
 ## Projects
 - Detection Lab
