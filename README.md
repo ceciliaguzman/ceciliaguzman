@@ -14,7 +14,6 @@ Relevant courses: Intro to Cyberspace & Informatics, Intro to Programming (Pytho
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
