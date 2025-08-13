@@ -62,7 +62,3 @@ Supported device setup, software installs, and basic troubleshooting; assisted w
 
 ## Contact
 📍 Edinburg, TX • ✉️ ceciliaguzmaan@gmail.com  
-
-## Projects
-- Detection Lab
-- SOC Automation Project
