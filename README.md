@@ -17,7 +17,7 @@ Relevant courses: Intro to Cyberspace & Informatics, Intro to Programming (Pytho
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python (scripting, basics)                    | <a href="#">Python Coursework</a> |
+| Python (scripting, basics)                    | <a href="#">https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing</a> |
 | Network Connection Monitoring & Analysis      | <a href='#'>NetStat Lab</a> |
 | Phishing Analyis & Detection                  | <a href='#'>Phishing Website Lab</a> |
 | Log Analysis & Incident Investigation         | <a href="#">Let'sDefend SOC Labs</a> |
