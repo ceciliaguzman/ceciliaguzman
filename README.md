@@ -9,7 +9,7 @@ Seeking a cybersecurity internship to apply technical skills, gain hands-on expe
 
 ## Education
 **The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (in progress)  
-Relevant courses: Intro to Cyberspace & Informatics, Intro to Programming (Python), Foundations of Systems I & II, Programming Cyber Systems, Reverse Engineering.  
+ 
 **B.I.S., Interdisciplinary Studies (Bilingual Education), Magna Cum Laude (Dec 2022)**
 
 
