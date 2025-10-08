@@ -17,11 +17,10 @@ Seeking a cybersecurity internship to apply technical skills, gain hands-on expe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python (scripting, basics)                    | <a href="#">Python Script</a> |
-| Network Connection Monitoring & Analysis      | <a href= "https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing">NetStat Lab</a> |
+| HoneyPot with Cowrie                          | <a href= "https://docs.google.com/document/d/1JjzGnQfBUAeJSbFwgnDeqpUNdSbFHulXgm4zrs9Bjn4/edit?usp=sharing">HoneyPot with Cowrie</ a>|
+| Network Connection Monitoring & Analysis      | <a href= "https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing">NetStat Lab</a>|
 | Phishing Analyis & Detection                  | <a href='#'>Phishing Website Lab</a> |
-| Log Analysis & Incident Investigation         | <a href="#">Let'sDefend SOC Labs</a> |
-| Alert Triage & Case Documentation             | <a href="#">Let'sDefend SOC Labs</a> |
+
 
 ## Tools
 
