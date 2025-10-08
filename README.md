@@ -19,7 +19,7 @@ Seeking a cybersecurity internship to apply technical skills, gain hands-on expe
 |-----------------------------------------------|----------------------------|
 | HoneyPot with Cowrie                          | <a href= "https://docs.google.com/document/d/1JjzGnQfBUAeJSbFwgnDeqpUNdSbFHulXgm4zrs9Bjn4/edit?usp=sharing">HoneyPot with Cowrie</a>|
 | Network Connection Monitoring & Analysis      | <a href= "https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing">NetStat Lab</a>|
-| Phishing Analyis & Detection                  | <a href='#'>Phishing Website Lab</a> |
+| Wireshark Analysis Labs                       | <a href= "https://docs.google.com/document/d/1CwRmaDxnyQroMDeREVLPpep7y6HwVtVR-by3xe4Yzzs/edit?usp=sharing">Wireshark Analysis Labs</a>|
 
 
 ## Tools
