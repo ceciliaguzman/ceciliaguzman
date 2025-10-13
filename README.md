@@ -28,7 +28,6 @@ Seeking a cybersecurity internship to apply technical skills, gain hands-on expe
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
 ### Networking & Security
