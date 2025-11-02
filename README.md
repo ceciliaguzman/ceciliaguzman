@@ -17,6 +17,7 @@ Seeking a cybersecurity internship to apply technical skills, gain hands-on expe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Netflix Data Analysis                         | <a href= "https://docs.google.com/document/d/1sH5ujwlPw5YT5onVRqPMmajlhJrh4LNpIBY6WvxYf4I/edit?tab=t.0">Netflix Data Analysis</a>|
 | Honeypot                                      | <a href= "https://docs.google.com/document/d/1JjzGnQfBUAeJSbFwgnDeqpUNdSbFHulXgm4zrs9Bjn4/edit?usp=sharing">HoneyPot with Cowrie</a>|
 | Network Connection Monitoring & Analysis      | <a href= "https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing">NetStat Lab</a>|
 | Wireshark Analysis                            | <a href= "https://docs.google.com/document/d/1CwRmaDxnyQroMDeREVLPpep7y6HwVtVR-by3xe4Yzzs/edit?usp=sharing">Wireshark Analysis Labs</a>|
