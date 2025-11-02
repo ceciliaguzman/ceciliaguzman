@@ -1,11 +1,11 @@
 # Hello, I'm Cecilia
 <a href="https://linkedin.com/in/ceciliaprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Master's student in Informatics with a focus in cybersecurity, combining a strong interest in technology with a dedication to solving complex problems and safeguarding digital environments.
+Master’s student in Informatics with a focus in Cybersecurity, combining a strong interest in technology with a dedication to solving complex problems and working with data. Passionate about using analytical and technical skills to improve system security, data accuracy, and decision-making.
 
 ## Objective
 
-Seeking a cybersecurity internship to apply technical skills, gain hands-on experience, and contribute to protecting digital systems.
+Seeking a full-time opportunity in cybersecurity or data analysis to apply technical and analytical skills, gain hands-on experience, and contribute to secure, data-informed operations.
 
 ## Education
 **The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (in progress)  
