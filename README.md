@@ -5,7 +5,7 @@ Master’s student in Informatics with a focus in Cybersecurity, combining a str
 
 ## Objective
 
-Seeking a full-time opportunity in cybersecurity or data analysis to apply technical and analytical skills, gain hands-on experience, and contribute to secure, data-informed operations.
+Seeking a full-time opportunity in data analysis or cybersecurity to apply technical and analytical skills, gain hands-on experience, and contribute to secure, data-informed operations.
 
 ## Education
 **The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (in progress)  
