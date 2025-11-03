@@ -55,6 +55,7 @@ Delivered engaging lessons for grades Pre-K to 5, strengthening communication, d
 Developed standards-aligned lesson plans and assessments for 2nd grade students.
 
 **Technology Intern — Edinburg CISD** (Feb 2018 – Sep 2021)
+
 Assisted the Pupil Accounting Office with record management, public inquiries, and daily office operations while supporting technology and data organization needs.
 
 ---
