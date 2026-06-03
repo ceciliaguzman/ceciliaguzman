@@ -1,14 +1,14 @@
 # Hello, I'm Cecilia
 <a href="https://linkedin.com/in/ceciliaprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Master’s student in Informatics with a focus in Cybersecurity, combining a strong interest in technology with a dedication to solving complex problems and working with data. Passionate about using analytical and technical skills to improve system security, data accuracy, and decision-making.
+Hello, I'm Cecilia Guzman, a Master's in Informatics student at the University of Texas Rio Grande Valley. I'm passionate about cybersecurity, networking, databases, and technology solutions. My repositories include projects involving Python, Wireshark, network security, database systems, and hands-on cybersecurity labs as I prepare for a career in IT and cybersecurity..
 
 ## Objective
 
-Seeking a full-time opportunity in data analysis or cybersecurity to apply technical and analytical skills, gain hands-on experience, and contribute to secure, data-informed operations.
+Seeking an entry-level IT position to apply technical problem-solving, cybersecurity, networking, and information systems knowledge while gaining hands-on experience and contributing to secure and efficient technology operations.
 
 ## Education
-**The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (in progress)  
+**The University of Texas Rio Grande Valley (UTRGV)** — M.S. Informatics (Expected December 2026)  
  
 **B.I.S., Interdisciplinary Studies (Bilingual Education), Magna Cum Laude (Dec 2022)**
 
