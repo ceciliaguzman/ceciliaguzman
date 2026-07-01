@@ -17,6 +17,7 @@ Seeking an entry-level IT position to apply technical problem-solving, cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Technology Payment Plan Database - SQL        | <a href= "https://docs.google.com/presentation/d/1tBJiFENfJzsNwij3x9i6aUFWJyZG9RQ8qP1OfqCOFqc/edit?slide=id.p17#slide=id.p17">Technology Payment Plan Database</a>|
 | Netflix Data Analysis                         | <a href= "https://docs.google.com/document/d/1sH5ujwlPw5YT5onVRqPMmajlhJrh4LNpIBY6WvxYf4I/edit?tab=t.0">Netflix Data Analysis</a>|
 | Honeypot                                      | <a href= "https://docs.google.com/document/d/1JjzGnQfBUAeJSbFwgnDeqpUNdSbFHulXgm4zrs9Bjn4/edit?usp=sharing">HoneyPot with Cowrie</a>|
 | Network Connection Monitoring & Analysis      | <a href= "https://docs.google.com/document/d/1MDcHOr6HmpidU6VIHq_y8UDNjcsIv77NwiXZ-xUvBjA/edit?usp=sharing">NetStat Lab</a>|
